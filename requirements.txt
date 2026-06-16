@@ -1,8 +1,9 @@
 streamlit
+google-generativeai
 langchain-google-genai
 langchain-community
 faiss-cpu
 langchain-text-splitters
 pypdf
-tavily-python
 python-dotenv
+google-search-results
