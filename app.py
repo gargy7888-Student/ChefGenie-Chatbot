@@ -30,7 +30,7 @@ say you can only help with cooking related topics.
 """
 
 st.set_page_config(
-    page_title="👨‍🍳 ChefGenie",
+    page_title="ChefGenie",
     page_icon="👨‍🍳",
     layout="centered",
 
