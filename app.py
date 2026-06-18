@@ -12,7 +12,7 @@ SERP_API_KEY = os.getenv("SERP_API_KEY")
 
 genai.configure(api_key = GEMINI_API_KEY)
 
-model = genai.GenerativeModel("gemini-2.0-flash")
+model = genai.GenerativeModel("gemini-3.5-flash")
 
 SYSTEM_PROMPT = """
 You are ChefGenie, an expert cooking assistant.
